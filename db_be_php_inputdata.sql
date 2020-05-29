@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `db_backend_php_inputdata`
+-- Database: `db_be_php_inputdata`
 --
 
 -- --------------------------------------------------------
