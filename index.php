@@ -22,6 +22,7 @@
         <button class="btn btn-sm btn-default">Apply</button>                
       </div>
       <div class="col-sm-4">
+        <a href="input_galeri.php" class="btn btn-primary">Tambah Data</a>
       </div>
       <div class="col-sm-3">
         <div class="input-group">
@@ -33,7 +34,6 @@
       </div>
     </div>
     <div class="table-responsive">
-      <a href="input_galeri.php" class="btn btn-primary">Tambah Data</a>
       <table class="table table-striped b-t b-light">
         <thead>
           <tr>

@@ -2,6 +2,6 @@
 
 //untuk koneksi database
 
-$con = new mysqli("localhost","root","","db_backend_php_inputdata");
+$con = new mysqli("localhost","root","","backend_php_inputdata");
 
 ?>

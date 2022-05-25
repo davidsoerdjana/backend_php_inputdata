@@ -1,7 +1,7 @@
  <!-- footer -->
 		  <div class="footer">
 			<div class="wthree-copyright">
-			  <p> © 2020 Berita| Design by David Surjana </p>
+			  <p> © 2020 Berita | Design by David Surjana </p>
 			</div>
 		  </div>
   <!-- / footer -->
